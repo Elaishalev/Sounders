@@ -1,0 +1,28 @@
+﻿Minute,Player,Team,GameID,Outcome,xG,PSxG,Distance,Body Part,Notes,SCA1_Player,SCA1_Event,SCA2_Player,SCA2_Event
+9,Raúl Ruidíaz\Raul-Ruidiaz,SEA,4,Saved,0.04,0.11,24,Right Foot,First touch,Joevin Jones,Pass (Live),Nicolás Lodeiro,Pass (Live)
+17,Eduard Atuesta\Eduard-Atuesta,LAFC,4,Goal,0.05,0.22,28,Right Foot,Free kick,Carlos Vela,Fouled,Carlos Vela,Dribble
+18,Xavier Arreaga\Xavier-Arreaga,SEA,4,Wayward,0.06,,10,Head,,Nicolás Lodeiro,Pass (Dead),Brad Smith,Fouled
+19,Brian Rodríguez\Brian-Rodriguez,LAFC,4,Saved,0.05,0.09,11,Right Foot,,,,,
+20,Latif Blessing\Latif-Blessing,LAFC,4,Blocked,0.04,,20,Right Foot,First touch,Brian Rodríguez,Shot,,
+22,Raúl Ruidíaz\Raul-Ruidiaz,SEA,4,Goal,0.38,0.55,16,Right Foot,,Raúl Ruidíaz,Dribble,Nicolás Lodeiro,Pass (Live)
+26,Nicolás Lodeiro\Nicolas-Lodeiro,SEA,4,Goal,0.07,0.25,22,Left Foot,,Joevin Jones,Pass (Live),Raúl Ruidíaz,Pass (Live)
+37,Diego Rossi\Diego-Rossi,LAFC,4,Off Target,0.04,,18,Left Foot,,,,,
+39,Raúl Ruidíaz\Raul-Ruidiaz,SEA,4,Off Target,0.05,,25,Right Foot,,Raúl Ruidíaz,Dribble,Nicolás Lodeiro,Pass (Live)
+45.4,Carlos Vela\Carlos-Vela,LAFC,4,Blocked,0.13,,13,Left Foot,First touch,Brian Rodríguez,Pass (Live),Carlos Vela,Pass (Live)
+54,Tristan Blackmon\Tristan-Blackmon,LAFC,4,Off Target,0.04,,24,Right Foot,,,,,
+57,Raúl Ruidíaz\Raul-Ruidiaz,SEA,4,Off Target,0.03,,21,Left Foot,First touch Volley,Jordan Morris,Pass (Live),Nicolás Lodeiro,Pass (Live)
+57,Nicolás Lodeiro\Nicolas-Lodeiro,SEA,4,Off Target,0.02,,48,Left Foot,,,,,
+58,Carlos Vela\Carlos-Vela,LAFC,4,Saved,0.01,0.06,31,Left Foot,,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+64,Raúl Ruidíaz\Raul-Ruidiaz,SEA,4,Goal,0.1,0.14,21,Right Foot,,Nicolás Lodeiro,Pass (Live),,
+68,Cristian Roldan\Cristian-Roldan,SEA,4,Off Target,0.02,,20,Right Foot,First touch Volley,,,,
+69,Eddie Segura\Eddie-Segura,LAFC,4,Saved,0.09,0.29,6,Head,,,,,
+75,Diego Rossi\Diego-Rossi,LAFC,4,Blocked,0.02,,22,Right Foot,,Eduard Atuesta,Pass (Live),Eduard Atuesta,Dribble
+76,Adama Diomande\Adama-Diomande,LAFC,4,Off Target,0.02,,19,Left Foot,,Jordan Harvey,Pass (Live),Eduard Atuesta,Pass (Live)
+77,Brad Smith\Brad-Smith,SEA,4,Off Target,0.07,,17,Left Foot,First touch,Raúl Ruidíaz,Pass (Live),Raúl Ruidíaz,Dribble
+78,Adama Diomande\Adama-Diomande,LAFC,4,Off Target,0.1,,8,Right Foot,Half volley,Eduard Atuesta,Pass (Live),Walker Zimmerman,Pass (Live)
+82,Eduard Atuesta\Eduard-Atuesta,LAFC,4,Off Target,0.05,,31,Right Foot,Free kick,Carlos Vela,Fouled,Adama Diomande,Pass (Live)
+87,Brad Smith\Brad-Smith,SEA,4,Off Target,0.05,,16,Left Foot,,Raúl Ruidíaz,Pass (Live),,
+91,Adama Diomande\Adama-Diomande,LAFC,4,Off Target,0.07,,13,Right Foot,First touch Half volley,Mark-Anthony Kaye,Pass (Live),Eduard Atuesta,Pass (Live)
+92,Adrien Perez\Adrien-Perez,LAFC,4,Blocked,0.02,,28,Left Foot,,Eduard Atuesta,Pass (Live),Eddie Segura,Pass (Live)
+93,Adrien Perez\Adrien-Perez,LAFC,4,Wayward,0.03,,16,Right Foot,First touch Volley,Carlos Vela,Pass (Dead),Adrien Perez,Shot
+93,Nouhou Tolo\Nouhou-Tolo,SEA,4,Saved,0.34,0.34,16,Right Foot,,Raúl Ruidíaz,Pass (Live),Raúl Ruidíaz,Fouled

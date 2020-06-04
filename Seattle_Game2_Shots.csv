@@ -1,0 +1,23 @@
+﻿Minute,Player,Team,GameID,Outcome,xG,PSxG,Distance,Body Part,Notes,SCA1_Player,SCA1_Event,SCA2_Player,SCA2_Event
+9,Jordan Harvey\Jordan-Harvey,Los Angeles FC,2,Off Target,0.02,,8,Head,,Mark-Anthony Kaye,Pass (Dead),Mark-Anthony Kaye,Pass (Live)
+10,Diego Rossi\Diego-Rossi,Los Angeles FC,2,Off Target,0.03,,15,Left Foot,,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+12,Carlos Vela\Carlos-Vela,Los Angeles FC,2,Goal,0.32,0.61,14,Left Foot,,Mark-Anthony Kaye,Pass (Live),Eduard Atuesta,Pass (Live)
+14,Kim Kee-hee\Kim-Kee-hee,Seattle,2,Saved,0.03,0.09,12,Head,,Víctor Rodríguez,Pass (Live),Kelvin Leerdam,Pass (Live)
+21,Carlos Vela\Carlos-Vela,Los Angeles FC,2,Off Target,0.02,,16,Left Foot,,Mark-Anthony Kaye,Pass (Dead),,
+23,Steven Beitashour\Steven-Beitashour,Los Angeles FC,2,Off Target,0.03,,13,Head,,Jordan Harvey,Pass (Live),Eduard Atuesta,Pass (Live)
+25,Nicolás Lodeiro\Nicolas-Lodeiro,Seattle,2,Wayward,0.02,,68,Left Foot,,,,,
+39,Eduard Atuesta\Eduard-Atuesta,Los Angeles FC,2,Goal,0.15,0.33,17,Right Foot,,Eduard Atuesta,Dribble,,
+45,Christian Ramirez\Christian-Ramirez,Los Angeles FC,2,Off Target,0.04,,31,Right Foot,Free kick,Carlos Vela,Fouled,Mark-Anthony Kaye,Pass (Live)
+45.2,Carlos Vela\Carlos-Vela,Los Angeles FC,2,Saved,0.48,0.53,17,Left Foot,Half volley,Christian Ramirez,Pass (Live),Steven Beitashour,Pass (Live)
+47,Christian Ramirez\Christian-Ramirez,Los Angeles FC,2,Saved,0.03,0.12,26,Right Foot,,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+51,Harry Shipp\Harry-Shipp,Seattle,2,Goal,0.33,0.67,13,Right Foot,,Víctor Rodríguez,Pass (Live),Cristian Roldan,Pass (Live)
+55,Carlos Vela\Carlos-Vela,Los Angeles FC,2,Goal,0.43,0.25,5,Left Foot,,Carlos Vela,Dribble,Eduard Atuesta,Pass (Live)
+61,Diego Rossi\Diego-Rossi,Los Angeles FC,2,Saved,0.26,0.46,13,Right Foot,First touch,Eduard Atuesta,Pass (Live),Christian Ramirez,Pass (Live)
+61,Christian Ramirez\Christian-Ramirez,Los Angeles FC,2,Goal,0.61,0.5,8,Right Foot,,Latif Blessing,Pass (Live),Christian Ramirez,Pass (Live)
+72,Nicolás Lodeiro\Nicolas-Lodeiro,Seattle,2,Blocked,0.07,,19,Left Foot,First touch,Harry Shipp,Pass (Live),,
+75,Brad Smith\Brad-Smith,Seattle,2,Off Target,0.02,,21,Left Foot,,Cristian Roldan,Pass (Live),Jordy Delem,Pass (Live)
+79,Harry Shipp\Harry-Shipp,Seattle,2,Blocked,0.02,,25,Right Foot,First touch Volley,,,,
+83,Eddie Segura\Eddie-Segura,Los Angeles FC,2,Wayward,0.05,,14,Head,,Latif Blessing,Pass (Live),Lee Nguyen,Pass (Live)
+84,Mark-Anthony Kaye\Mark-Anthony-Kaye,Los Angeles FC,2,Blocked,0.17,,12,Left Foot,First touch,Eduard Atuesta,Pass (Live),Carlos Vela,Pass (Live)
+85,Carlos Vela\Carlos-Vela,Los Angeles FC,2,Saved,0.02,0.07,22,Left Foot,,Adrien Perez,Pass (Live),Mark-Anthony Kaye,Pass (Live)
+87,Mark-Anthony Kaye\Mark-Anthony-Kaye,Los Angeles FC,2,Blocked,0.02,,25,Left Foot,,Mark-Anthony Kaye,Dribble,,

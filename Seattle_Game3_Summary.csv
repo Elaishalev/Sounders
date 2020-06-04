@@ -1,0 +1,29 @@
+﻿Player,#,Nation,Pos,Team,GameID,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Pass_Cmp,Pass_Att,Pass_Cmp%,Pass_PrgDist,Carries,Carries_PrgDist,Dribble_Succ,Dribble_Att
+Jordan Morris\Jordan-Morris,13,us USA,FW,SEA,3,90,1,0,0,0,2,1,0,0,32,18,2,2,0,0.6,0.6,0,1,0,13,15,86.7,38,23,92,1,3
+Saad Abdul-Salaam\Saad-Abdul-Salaam,12,us USA,FW,SEA,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0
+Handwalla Bwana\Handwalla-Bwana,70,ae UAE,LW,SEA,3,79,0,0,0,0,0,0,0,0,30,21,4,1,4,0,0,0,1,0,12,19,63.2,42,21,106,2,3
+Henry Wingo\Henry-Wingo,23,us USA,LW,SEA,3,11,0,0,0,0,0,0,0,0,7,5,0,1,0,0,0,0,0,0,3,3,100,32,2,2,0,0
+Harry Shipp\Harry-Shipp,19,us USA,RW,SEA,3,70,0,0,0,0,0,0,0,0,23,10,0,1,2,0,0,0,0,0,9,15,60,72,13,16,0,0
+Alex Roldan\Alex-Roldan,16,us USA,RW,SEA,3,20,0,0,0,0,0,0,0,0,13,1,0,0,2,0,0,0,1,0,4,10,40,16,9,12,0,1
+Nicolás Lodeiro\Nicolas-Lodeiro,10,uy URU,AM,SEA,3,90,0,0,0,0,1,1,1,0,63,24,3,1,2,0,0,0,1,0,19,37,51.4,109,35,111,0,4
+Cristian Roldan\Cristian-Roldan,7,us USA,CM,SEA,3,17,0,0,0,0,0,0,0,1,4,6,1,1,0,0,0,0,0,0,2,3,66.7,9,1,0,0,0
+Jordy Delem\Jordy-Delem,21,mq MTQ,CM,SEA,3,90,0,0,0,0,0,0,0,0,34,16,3,1,3,0,0,0,0,0,16,25,64,67,13,19,0,0
+Brad Smith\Brad-Smith,11,au AUS,LB,SEA,3,90,0,0,0,0,1,1,0,0,52,23,9,2,3,0,0,0,1,0,22,33,66.7,136,27,163,3,5
+Kim Kee-hee\Kim-Kee-hee,20,kr KOR,CB,SEA,3,90,0,0,0,0,0,0,1,0,31,9,1,1,2,0,0,0,0,0,18,24,75,160,15,16,0,0
+Román Torres\Roman-Torres,29,pa PAN,CB,SEA,3,90,0,0,0,0,1,1,0,0,26,5,3,0,1,0,0,0,0,0,14,18,77.8,146,10,47,1,1
+Kelvin Leerdam\Kelvin-Leerdam,18,nl NED,RB,SEA,3,89,0,0,0,0,0,0,0,1,29,12,3,0,0,0,0,0,0,0,14,21,66.7,144,11,19,1,1
+Stefan Frei\Stefan-Frei,24,ch SUI,GK,SEA,3,90,0,0,0,0,0,0,0,0,42,0,0,1,0,0,0,0,0,0,15,38,39.5,691,7,6,0,0
+Christian Ramirez\Christian-Ramirez,21,us USA,FW,LAFC,3,77,0,0,0,0,3,0,0,0,18,13,1,0,0,1.2,1.2,0,1,0,7,10,70,21,13,13,1,2
+Adrien Perez\Adrien-Perez,26,us USA,RWFW,LAFC,3,13,0,0,0,0,1,0,0,0,11,2,0,0,0,0.5,0.5,0,1,0,5,7,71.4,5,8,17,0,1
+Diego Rossi\Diego-Rossi,9,uy URU,LWRW,LAFC,3,90,0,1,0,0,6,1,0,0,73,16,0,0,1,0.2,0.2,1.2,7,1,50,56,89.3,138,73,419,4,7
+Carlos Vela\Carlos-Vela,10,mx MEX,RWFWLW,LAFC,3,90,1,0,0,0,6,2,0,0,76,10,0,0,1,1.4,1.4,0.2,9,0,46,63,73,292,63,207,4,6
+Mark-Anthony Kaye\Mark-Anthony-Kaye,14,ca CAN,CM,LAFC,3,90,0,0,0,0,0,0,1,0,84,24,2,2,0,0,0,0.4,4,0,62,72,86.1,350,79,153,1,2
+Latif Blessing\Latif-Blessing,7,gh GHA,CMRB,LAFC,3,90,0,0,0,0,1,0,0,0,88,22,3,3,1,0.2,0.2,0.9,1,0,60,69,87,216,78,168,3,6
+Eduard Atuesta\Eduard-Atuesta,20,co COL,DM,LAFC,3,90,0,0,0,0,2,1,0,0,127,22,2,4,2,0.2,0.2,0,4,0,98,111,88.3,552,101,238,2,4
+Jordan Harvey\Jordan-Harvey,2,us USA,LB,LAFC,3,70,0,0,0,0,1,0,0,0,70,10,1,0,0,0,0,0,2,1,59,65,90.8,367,52,92,0,0
+Mohamed El Monir\Mohamed-El-Monir,13,ly LBY,LB,LAFC,3,20,0,0,0,0,1,1,0,0,23,7,2,0,1,0,0,0.5,2,0,11,20,55,73,18,47,0,0
+Eddie Segura\Eddie-Segura,4,co COL,CB,LAFC,3,90,0,0,0,0,0,0,0,0,86,8,3,0,0,0,0,0,1,0,76,82,92.7,631,61,163,0,0
+Walker Zimmerman\Walker-Zimmerman,25,us USA,CB,LAFC,3,90,0,0,0,0,0,0,0,0,67,8,0,1,2,0,0,0,1,0,54,61,88.5,540,41,89,0,1
+Tristan Blackmon\Tristan-Blackmon,27,us USA,RB,LAFC,3,45,0,0,0,0,0,0,1,0,62,14,0,1,2,0,0,0,1,0,50,55,90.9,235,41,69,0,1
+Lee Nguyen\Lee-Nguyen,24,us USA,CM,LAFC,3,45,0,0,0,0,1,0,0,0,39,8,0,0,0,0,0,0.2,2,0,33,37,89.2,162,34,97,1,1
+Tyler Miller\Tyler-Miller,1,us USA,GK,LAFC,3,90,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,17,18,94.4,248,13,17,0,0

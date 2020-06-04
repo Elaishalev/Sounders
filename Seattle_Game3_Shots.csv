@@ -1,0 +1,28 @@
+﻿Minute,Player,Team,GameID,Outcome,xG,PSxG,Distance,Body Part,Notes,SCA1_Player,SCA1_Event,SCA2_Player,SCA2_Event
+1,Jordan Morris\Jordan-Morris,SEA,3,Goal,0.28,0.46,14,Left Foot,,,,,
+4,Carlos Vela\Carlos-Vela,LAFC,3,Goal,0.87,0.98,1,Left Foot,First touch Open goal,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+22,Brad Smith\Brad-Smith,SEA,3,Saved,0.04,0.07,19,Left Foot,,Brad Smith,Dribble,Handwalla Bwana,Pass (Live)
+24,Carlos Vela\Carlos-Vela,LAFC,3,Saved,0.03,0.07,25,Left Foot,,Tristan Blackmon,Pass (Live),Eduard Atuesta,Pass (Live)
+27,Diego Rossi\Diego-Rossi,LAFC,3,Blocked,0.04,,21,Right Foot,,,,,
+27,Diego Rossi\Diego-Rossi,LAFC,3,Saved,0.01,0.15,29,Right Foot,,Carlos Vela,Pass (Live),Walker Zimmerman,Pass (Live)
+28,Diego Rossi\Diego-Rossi,LAFC,3,Wayward,0.05,,6,Head,,Carlos Vela,Pass (Live),Carlos Vela,Dribble
+29,Diego Rossi\Diego-Rossi,LAFC,3,Off Target,0.04,,13,Right Foot,,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+32,Eduard Atuesta\Eduard-Atuesta,LAFC,3,Saved,0.1,0.3,28,Right Foot,Free kick,Diego Rossi,Fouled,Christian Ramirez,Pass (Live)
+35,Carlos Vela\Carlos-Vela,LAFC,3,Off Target,0.02,,25,Left Foot,,Eduard Atuesta,Pass (Live),Mark-Anthony Kaye,Pass (Live)
+47,Eduard Atuesta\Eduard-Atuesta,LAFC,3,Off Target,0.1,,18,Right Foot,,Eduard Atuesta,Dribble,Eduard Atuesta,Dribble
+48,Christian Ramirez\Christian-Ramirez,LAFC,3,Off Target,0.86,,2,Left Foot,First touch Open goal Half volley,Latif Blessing,Pass (Live),Carlos Vela,Pass (Live)
+52,Diego Rossi\Diego-Rossi,LAFC,3,Wayward,0.03,,10,Left Foot,Half volley,Jordan Harvey,Pass (Live),Lee Nguyen,Pass (Live)
+59,Jordan Harvey\Jordan-Harvey,LAFC,3,Off Target,0.01,,39,Left Foot,First touch Volley,,,,
+61,Latif Blessing\Latif-Blessing,LAFC,3,Blocked,0.21,,8,Right Foot,,Lee Nguyen,Pass (Live),Diego Rossi,Pass (Live)
+62,Lee Nguyen\Lee-Nguyen,LAFC,3,Blocked,0.05,,17,Right Foot,First touch,Eddie Segura,Pass (Live),,
+63,Carlos Vela\Carlos-Vela,LAFC,3,Woodwork,0.37,,5,Left Foot,First touch Half volley,Mark-Anthony Kaye,Pass (Live),,
+64,Christian Ramirez\Christian-Ramirez,LAFC,3,Wayward,0.04,,11,Left Foot,,,,,
+72,Christian Ramirez\Christian-Ramirez,LAFC,3,Off Target,0.29,,4,Right Foot,First touch Volley,Diego Rossi,Pass (Live),Carlos Vela,Pass (Live)
+75,Nicolás Lodeiro\Nicolas-Lodeiro,SEA,3,Saved,0.02,0.14,23,Left Foot,First touch Half volley,Alex Roldan,Pass (Live),Jordan Morris,Pass (Live)
+79,Adrien Perez\Adrien-Perez,LAFC,3,Off Target,0.54,,4,Left Foot,First touch,Mohamed El Monir,Pass (Live),Carlos Vela,Pass (Live)
+83,Román Torres\Roman-Torres,SEA,3,Saved,0.05,0.19,9,Head,,Nicolás Lodeiro,Pass (Dead),,
+85,Diego Rossi\Diego-Rossi,LAFC,3,Off Target,0.02,,26,Right Foot,,Diego Rossi,Dribble,Adrien Perez,Pass (Live)
+87,Mohamed El Monir\Mohamed-El-Monir,LAFC,3,Saved,0.03,0.04,13,Left Foot,,Diego Rossi,Pass (Live),Mohamed El Monir,Pass (Live)
+90,Carlos Vela\Carlos-Vela,LAFC,3,Blocked,0.04,,13,Right Foot,First touch,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+91,Jordan Morris\Jordan-Morris,SEA,3,Wayward,0.35,,5,Right Foot,First touch,,,,
+98,Carlos Vela\Carlos-Vela,LAFC,3,Off Target,0.09,,20,Left Foot,Free kick,Diego Rossi,Fouled,Carlos Vela,Pass (Live)

@@ -1,0 +1,77 @@
+,Minute,Player,Team,GameID,Outcome,xG,PSxG,Distance,Body Part,Notes,SCA1_Player,SCA1_Event,SCA2_Player,SCA2_Event
+0,9,Jordan Harvey,LAFC,L 4-1,Off Target,0.02,No Input,8,Head,No Input,Mark-Anthony Kaye,Pass (Dead),Mark-Anthony Kaye,Pass (Live)
+1,10,Diego Rossi,LAFC,L 4-1,Off Target,0.03,No Input,15,Left Foot,No Input,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+2,12,Carlos Vela,LAFC,L 4-1,Goal,0.32,0.61,14,Left Foot,No Input,Mark-Anthony Kaye,Pass (Live),Eduard Atuesta,Pass (Live)
+3,14,Kim Kee-hee,SEA,L 4-1,Saved,0.03,0.09,12,Head,No Input,Víctor Rodríguez,Pass (Live),Kelvin Leerdam,Pass (Live)
+4,21,Carlos Vela,LAFC,L 4-1,Off Target,0.02,No Input,16,Left Foot,No Input,Mark-Anthony Kaye,Pass (Dead),No Input,No Input
+5,23,Steven Beitashour,LAFC,L 4-1,Off Target,0.03,No Input,13,Head,No Input,Jordan Harvey,Pass (Live),Eduard Atuesta,Pass (Live)
+6,25,Nicolás Lodeiro,SEA,L 4-1,Wayward,0.02,No Input,68,Left Foot,No Input,No Input,No Input,No Input,No Input
+7,39,Eduard Atuesta,LAFC,L 4-1,Goal,0.15,0.33,17,Right Foot,No Input,Eduard Atuesta,Dribble,No Input,No Input
+8,45,Christian Ramirez,LAFC,L 4-1,Off Target,0.04,No Input,31,Right Foot,Free kick,Carlos Vela,Fouled,Mark-Anthony Kaye,Pass (Live)
+9,45.2,Carlos Vela,LAFC,L 4-1,Saved,0.48,0.53,17,Left Foot,Half volley,Christian Ramirez,Pass (Live),Steven Beitashour,Pass (Live)
+10,47,Christian Ramirez,LAFC,L 4-1,Saved,0.03,0.12,26,Right Foot,No Input,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+11,51,Harry Shipp,SEA,L 4-1,Goal,0.33,0.67,13,Right Foot,No Input,Víctor Rodríguez,Pass (Live),Cristian Roldan,Pass (Live)
+12,55,Carlos Vela,LAFC,L 4-1,Goal,0.43,0.25,5,Left Foot,No Input,Carlos Vela,Dribble,Eduard Atuesta,Pass (Live)
+13,61,Diego Rossi,LAFC,L 4-1,Saved,0.26,0.46,13,Right Foot,First touch,Eduard Atuesta,Pass (Live),Christian Ramirez,Pass (Live)
+14,61,Christian Ramirez,LAFC,L 4-1,Goal,0.61,0.5,8,Right Foot,No Input,Latif Blessing,Pass (Live),Christian Ramirez,Pass (Live)
+15,72,Nicolás Lodeiro,SEA,L 4-1,Blocked,0.07,No Input,19,Left Foot,First touch,Harry Shipp,Pass (Live),No Input,No Input
+16,75,Brad Smith,SEA,L 4-1,Off Target,0.02,No Input,21,Left Foot,No Input,Cristian Roldan,Pass (Live),Jordy Delem,Pass (Live)
+17,79,Harry Shipp,SEA,L 4-1,Blocked,0.02,No Input,25,Right Foot,First touch Volley,No Input,No Input,No Input,No Input
+18,83,Eddie Segura,LAFC,L 4-1,Wayward,0.05,No Input,14,Head,No Input,Latif Blessing,Pass (Live),Lee Nguyen,Pass (Live)
+19,84,Mark-Anthony Kaye,LAFC,L 4-1,Blocked,0.17,No Input,12,Left Foot,First touch,Eduard Atuesta,Pass (Live),Carlos Vela,Pass (Live)
+20,85,Carlos Vela,LAFC,L 4-1,Saved,0.02,0.07,22,Left Foot,No Input,Adrien Perez,Pass (Live),Mark-Anthony Kaye,Pass (Live)
+21,87,Mark-Anthony Kaye,LAFC,L 4-1,Blocked,0.02,No Input,25,Left Foot,No Input,Mark-Anthony Kaye,Dribble,No Input,No Input
+0,1,Jordan Morris,SEA,D 1-1,Goal,0.28,0.46,14,Left Foot,No Input,No Input,No Input,No Input,No Input
+1,4,Carlos Vela,LAFC,D 1-1,Goal,0.87,0.98,1,Left Foot,First touch Open goal,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+2,22,Brad Smith,SEA,D 1-1,Saved,0.04,0.07,19,Left Foot,No Input,Brad Smith,Dribble,Handwalla Bwana,Pass (Live)
+3,24,Carlos Vela,LAFC,D 1-1,Saved,0.03,0.07,25,Left Foot,No Input,Tristan Blackmon,Pass (Live),Eduard Atuesta,Pass (Live)
+4,27,Diego Rossi,LAFC,D 1-1,Blocked,0.04,No Input,21,Right Foot,No Input,No Input,No Input,No Input,No Input
+5,27,Diego Rossi,LAFC,D 1-1,Saved,0.01,0.15,29,Right Foot,No Input,Carlos Vela,Pass (Live),Walker Zimmerman,Pass (Live)
+6,28,Diego Rossi,LAFC,D 1-1,Wayward,0.05,No Input,6,Head,No Input,Carlos Vela,Pass (Live),Carlos Vela,Dribble
+7,29,Diego Rossi,LAFC,D 1-1,Off Target,0.04,No Input,13,Right Foot,No Input,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+8,32,Eduard Atuesta,LAFC,D 1-1,Saved,0.1,0.3,28,Right Foot,Free kick,Diego Rossi,Fouled,Christian Ramirez,Pass (Live)
+9,35,Carlos Vela,LAFC,D 1-1,Off Target,0.02,No Input,25,Left Foot,No Input,Eduard Atuesta,Pass (Live),Mark-Anthony Kaye,Pass (Live)
+10,47,Eduard Atuesta,LAFC,D 1-1,Off Target,0.1,No Input,18,Right Foot,No Input,Eduard Atuesta,Dribble,Eduard Atuesta,Dribble
+11,48,Christian Ramirez,LAFC,D 1-1,Off Target,0.86,No Input,2,Left Foot,First touch Open goal Half volley,Latif Blessing,Pass (Live),Carlos Vela,Pass (Live)
+12,52,Diego Rossi,LAFC,D 1-1,Wayward,0.03,No Input,10,Left Foot,Half volley,Jordan Harvey,Pass (Live),Lee Nguyen,Pass (Live)
+13,59,Jordan Harvey,LAFC,D 1-1,Off Target,0.01,No Input,39,Left Foot,First touch Volley,No Input,No Input,No Input,No Input
+14,61,Latif Blessing,LAFC,D 1-1,Blocked,0.21,No Input,8,Right Foot,No Input,Lee Nguyen,Pass (Live),Diego Rossi,Pass (Live)
+15,62,Lee Nguyen,LAFC,D 1-1,Blocked,0.05,No Input,17,Right Foot,First touch,Eddie Segura,Pass (Live),No Input,No Input
+16,63,Carlos Vela,LAFC,D 1-1,Woodwork,0.37,No Input,5,Left Foot,First touch Half volley,Mark-Anthony Kaye,Pass (Live),No Input,No Input
+17,64,Christian Ramirez,LAFC,D 1-1,Wayward,0.04,No Input,11,Left Foot,No Input,No Input,No Input,No Input,No Input
+18,72,Christian Ramirez,LAFC,D 1-1,Off Target,0.29,No Input,4,Right Foot,First touch Volley,Diego Rossi,Pass (Live),Carlos Vela,Pass (Live)
+19,75,Nicolás Lodeiro,SEA,D 1-1,Saved,0.02,0.14,23,Left Foot,First touch Half volley,Alex Roldan,Pass (Live),Jordan Morris,Pass (Live)
+20,79,Adrien Perez,LAFC,D 1-1,Off Target,0.54,No Input,4,Left Foot,First touch,Mohamed El Monir,Pass (Live),Carlos Vela,Pass (Live)
+21,83,Román Torres,SEA,D 1-1,Saved,0.05,0.19,9,Head,No Input,Nicolás Lodeiro,Pass (Dead),No Input,No Input
+22,85,Diego Rossi,LAFC,D 1-1,Off Target,0.02,No Input,26,Right Foot,No Input,Diego Rossi,Dribble,Adrien Perez,Pass (Live)
+23,87,Mohamed El Monir,LAFC,D 1-1,Saved,0.03,0.04,13,Left Foot,No Input,Diego Rossi,Pass (Live),Mohamed El Monir,Pass (Live)
+24,90,Carlos Vela,LAFC,D 1-1,Blocked,0.04,No Input,13,Right Foot,First touch,Mark-Anthony Kaye,Pass (Live),Carlos Vela,Pass (Live)
+25,91,Jordan Morris,SEA,D 1-1,Wayward,0.35,No Input,5,Right Foot,First touch,No Input,No Input,No Input,No Input
+26,98,Carlos Vela,LAFC,D 1-1,Off Target,0.09,No Input,20,Left Foot,Free kick,Diego Rossi,Fouled,Carlos Vela,Pass (Live)
+0,9,Raúl Ruidíaz,SEA,W 3-1,Saved,0.04,0.11,24,Right Foot,First touch,Joevin Jones,Pass (Live),Nicolás Lodeiro,Pass (Live)
+1,17,Eduard Atuesta,LAFC,W 3-1,Goal,0.05,0.22,28,Right Foot,Free kick,Carlos Vela,Fouled,Carlos Vela,Dribble
+2,18,Xavier Arreaga,SEA,W 3-1,Wayward,0.06,No Input,10,Head,No Input,Nicolás Lodeiro,Pass (Dead),Brad Smith,Fouled
+3,19,Brian Rodríguez,LAFC,W 3-1,Saved,0.05,0.09,11,Right Foot,No Input,No Input,No Input,No Input,No Input
+4,20,Latif Blessing,LAFC,W 3-1,Blocked,0.04,No Input,20,Right Foot,First touch,Brian Rodríguez,Shot,No Input,No Input
+5,22,Raúl Ruidíaz,SEA,W 3-1,Goal,0.38,0.55,16,Right Foot,No Input,Raúl Ruidíaz,Dribble,Nicolás Lodeiro,Pass (Live)
+6,26,Nicolás Lodeiro,SEA,W 3-1,Goal,0.07,0.25,22,Left Foot,No Input,Joevin Jones,Pass (Live),Raúl Ruidíaz,Pass (Live)
+7,37,Diego Rossi,LAFC,W 3-1,Off Target,0.04,No Input,18,Left Foot,No Input,No Input,No Input,No Input,No Input
+8,39,Raúl Ruidíaz,SEA,W 3-1,Off Target,0.05,No Input,25,Right Foot,No Input,Raúl Ruidíaz,Dribble,Nicolás Lodeiro,Pass (Live)
+9,45.4,Carlos Vela,LAFC,W 3-1,Blocked,0.13,No Input,13,Left Foot,First touch,Brian Rodríguez,Pass (Live),Carlos Vela,Pass (Live)
+10,54,Tristan Blackmon,LAFC,W 3-1,Off Target,0.04,No Input,24,Right Foot,No Input,No Input,No Input,No Input,No Input
+11,57,Raúl Ruidíaz,SEA,W 3-1,Off Target,0.03,No Input,21,Left Foot,First touch Volley,Jordan Morris,Pass (Live),Nicolás Lodeiro,Pass (Live)
+12,57,Nicolás Lodeiro,SEA,W 3-1,Off Target,0.02,No Input,48,Left Foot,No Input,No Input,No Input,No Input,No Input
+13,58,Carlos Vela,LAFC,W 3-1,Saved,0.01,0.06,31,Left Foot,No Input,Diego Rossi,Pass (Live),Jordan Harvey,Pass (Live)
+14,64,Raúl Ruidíaz,SEA,W 3-1,Goal,0.1,0.14,21,Right Foot,No Input,Nicolás Lodeiro,Pass (Live),No Input,No Input
+15,68,Cristian Roldan,SEA,W 3-1,Off Target,0.02,No Input,20,Right Foot,First touch Volley,No Input,No Input,No Input,No Input
+16,69,Eddie Segura,LAFC,W 3-1,Saved,0.09,0.29,6,Head,No Input,No Input,No Input,No Input,No Input
+17,75,Diego Rossi,LAFC,W 3-1,Blocked,0.02,No Input,22,Right Foot,No Input,Eduard Atuesta,Pass (Live),Eduard Atuesta,Dribble
+18,76,Adama Diomande,LAFC,W 3-1,Off Target,0.02,No Input,19,Left Foot,No Input,Jordan Harvey,Pass (Live),Eduard Atuesta,Pass (Live)
+19,77,Brad Smith,SEA,W 3-1,Off Target,0.07,No Input,17,Left Foot,First touch,Raúl Ruidíaz,Pass (Live),Raúl Ruidíaz,Dribble
+20,78,Adama Diomande,LAFC,W 3-1,Off Target,0.1,No Input,8,Right Foot,Half volley,Eduard Atuesta,Pass (Live),Walker Zimmerman,Pass (Live)
+21,82,Eduard Atuesta,LAFC,W 3-1,Off Target,0.05,No Input,31,Right Foot,Free kick,Carlos Vela,Fouled,Adama Diomande,Pass (Live)
+22,87,Brad Smith,SEA,W 3-1,Off Target,0.05,No Input,16,Left Foot,No Input,Raúl Ruidíaz,Pass (Live),No Input,No Input
+23,91,Adama Diomande,LAFC,W 3-1,Off Target,0.07,No Input,13,Right Foot,First touch Half volley,Mark-Anthony Kaye,Pass (Live),Eduard Atuesta,Pass (Live)
+24,92,Adrien Perez,LAFC,W 3-1,Blocked,0.02,No Input,28,Left Foot,No Input,Eduard Atuesta,Pass (Live),Eddie Segura,Pass (Live)
+25,93,Adrien Perez,LAFC,W 3-1,Wayward,0.03,No Input,16,Right Foot,First touch Volley,Carlos Vela,Pass (Dead),Adrien Perez,Shot
+26,93,Nouhou Tolo,SEA,W 3-1,Saved,0.34,0.34,16,Right Foot,No Input,Raúl Ruidíaz,Pass (Live),Raúl Ruidíaz,Fouled
